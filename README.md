@@ -6,7 +6,7 @@ ShopStock runs on a local server. Employee accounts, inventory, stock history, c
 
 ## Current status
 
-Release delivery is being commissioned. There are no supported OTA releases available yet. Creating this repository does not enable automatic updates on an existing server or screen.
+**0.4.0 Dell pilot** is available to commissioned test installations through the [signed pilot channel](channels/debian13-amd64-pilot.json). It passed 281 automated tests. Hardware, interrupted-update recovery and browser USB acceptance remain separate. It is not a stable production release.
 
 Updates will be installed through the Admin controls in ShopStock after signature, hardware compatibility and recovery checks. USB screen installation and network updates are separate operations.
 
